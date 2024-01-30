@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">FitLifeTask Manager</string>
+    <string name="open_nav">Otwórz nawigację</string>
+    <string name="close_nav">Zamknij nawigacjęr</string>
+    <string name="item_quantity">wpisz ilość</string>
+    <string name="save_button">zapisz</string>
+    <string name="item_name">wpisz nazwę produktu</string>
+    <string name="item_added">Dodano pomyślnie.</string>
+    <string name="item_updated">Zaktualizowano produkt.</string>
+    <string name="empty_not_saved">Błąd zapisu.</string>
+    <string name="wypita_woda">wypita woda:</string>
+    <string name="trainings_for_today">trening na dziś</string>
+    <string name="add_something">dodaj cos</string>
+    <string name="add_new_training">dodaj nowy trening</string>
+    <string name="add_new_exercise">dodaj nowe ćwiczenie</string>
+    <string name="training_table">tabela treningów</string>
+    <string name="search">wyszukaj trening</string>
+    <string name="exercise_table">tabela ćwiczeń</string>
+    <string name="change_font">zmień czcionkę</string>
+    <string name="change_colors">zmień kolory</string>
+    <string name="send_notification">wyślij powiadomienie</string>
+    <string name="notification_data_placeholder">miejsce na powiadomienie</string>
+</resources>

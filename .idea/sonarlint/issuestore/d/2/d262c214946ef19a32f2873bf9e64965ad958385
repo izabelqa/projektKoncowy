@@ -1,0 +1,15 @@
+
+F
+java:S1604Ø"(Make this anonymous inner class a lambda(°¯èù8Ü§ÃÈÕ1
+‚
+java:S1450&"`Remove the "dayNumberTextView" field and declare it as a local variable in the relevant methods.(Íîùúÿÿÿÿ8ò¨ÃÈÕ1
+}
+java:S1450%"`Remove the "dayOfWeekTextView" field and declare it as a local variable in the relevant methods.(‹ÍÏ³8ó¨ÃÈÕ1
+y
+java:S1450'"\Remove the "monthTextView" field and declare it as a local variable in the relevant methods.(áê´8ô¨ÃÈÕ1
+€
+java:S1450)"^Remove the "trainingAdapter" field and declare it as a local variable in the relevant methods.(ªÑ‹ûÿÿÿÿ8õ¨ÃÈÕ1
+‚
+java:S1450("`Remove the "trainingViewModel" field and declare it as a local variable in the relevant methods.(Í›åÿÿÿÿÿ8ö¨ÃÈÕ1
+]
+java:S1117f"ARename "trainingsList" which hides the field declared at line 42.(ïÉl8›©ÃÈÕ1

@@ -1,0 +1,14 @@
+
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¼ñó8ó•ƒÒÕ1
+J
+java:S1604"(Make this anonymous inner class a lambda(—ìŠüÿÿÿÿ8ó•ƒÒÕ1
+D
+java:S1604'"(Make this anonymous inner class a lambda(½ Ã]8ô•ƒÒÕ1
+J
+java:S1604/"(Make this anonymous inner class a lambda(¸Ì¿òùÿÿÿÿ8ô•ƒÒÕ1
+…
+java:S32529"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(•÷üş8 –ƒÒÕ1
+…
+java:S3252="hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ïïµ²8¡–ƒÒÕ1
+M
+java:S1172A"+Remove this unused method parameter "view".(ëÛşµÿÿÿÿÿ8¤–ƒÒÕ1

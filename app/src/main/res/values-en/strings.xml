@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="item_quantity">enter quantity</string>
+    <string name="save_button">save</string>
+    <string name="item_name">enter product name</string>
+    <string name="item_added">Added successfully.</string>
+    <string name="item_updated">Product updated</string>
+    <string name="empty_not_saved">Saving error</string>
+    <string name="wypita_woda">water drank:</string>
+    <string name="trainings_for_today">training for today</string>
+    <string name="add_something">add something</string>
+    <string name="add_new_training">add new training</string>
+    <string name="add_new_exercise">add new exercise</string>
+    <string name="training_table">trainings table</string>
+    <string name="search">search for training</string>
+    <string name="exercise_table">exercise table</string>
+    <string name="change_font">change font</string>
+    <string name="change_colors">change colors</string>
+    <string name="send_notification">send notification</string>
+    <string name="notification_data_placeholder">notification placeholder</string>
+</resources>

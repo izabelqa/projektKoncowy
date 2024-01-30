@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_options">
+        <item>szt.</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>kg</item>
+        <item>g</item>
+        <item>dag</item>
+    </string-array>
+</resources>
